@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/oracle/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/oracle/catkin_ws/src/irc2024-main/include/**",
+        "/home/oracle/catkin_ws/src/kratos/include/**",
+        "/home/oracle/catkin_ws/src/plan/include/**",
+        "/home/oracle/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/oracle/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/oracle/catkin_ws/src/turtlebot3/turtlebot3_slam/include/**",
+        "/home/oracle/catkin_ws/src/zed-ros-wrapper/zed-ros-interfaces/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
